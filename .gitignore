@@ -1,0 +1,14 @@
+# Salida de compilación de Maven
+target/
+
+# Archivos compilados
+*.class
+
+# Entornos de desarrollo
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Sistema operativo
+.DS_Store
